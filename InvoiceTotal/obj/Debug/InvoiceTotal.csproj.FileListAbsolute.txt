@@ -1,0 +1,9 @@
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotals.resources
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+c:\users\kelley\documents\visual studio 2015\Projects\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
